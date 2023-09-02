@@ -4,7 +4,7 @@
 
 > This project is React.js application that allows users to fetch an image from the Unsplash API and  add movable text overlays to the image with customize the text's position.
 
-> Hosted on netlify
+> Hosted on netlify  https://trikl-image-text-overlay-chandramouli.netlify.app/
 
 # Getting Started with Create React App
 
